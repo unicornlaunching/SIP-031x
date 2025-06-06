@@ -9,21 +9,25 @@
    - [Funding Structure](#funding-structure)
    - [Operational Structure](#operational-structure)
    - [Transparency and Accountability](#transparency-and-accountability)
-3. [Technical Implementation Details](#technical-implementation-details)
+3. [Economic Impact on STX Holders](#economic-impact-on-stx-holders)
+   - [Dilution and Supply Dynamics](#dilution-and-supply-dynamics)
+   - [Ecosystem Growth Investment](#ecosystem-growth-investment)
+   - [Long-term Value Proposition](#long-term-value-proposition)
+4. [Technical Implementation Details](#technical-implementation-details)
    - [Emission Schedule](#emission-schedule)
    - [Token Supply Impact](#token-supply-impact)
    - [Governance and Voting](#governance-and-voting)
-4. [Community Perspectives](#community-perspectives)
+5. [Community Perspectives](#community-perspectives)
    - [Supportive Perspectives](#supportive-perspectives)
    - [Critical Perspectives](#critical-perspectives)
-5. [Stacks Ecosystem Context](#stacks-ecosystem-context)
+6. [Stacks Ecosystem Context](#stacks-ecosystem-context)
    - [SIP Process](#sip-process)
    - [Technical Standards](#technical-standards)
    - [Proposed Enhancements](#proposed-enhancements)
-6. [Philosophical Framework](#philosophical-framework)
+7. [Philosophical Framework](#philosophical-framework)
    - [Bitcoin Power Projection Theory](#bitcoin-power-projection-theory)
    - [Computational Efficiency vs Strategic Value](#computational-efficiency-vs-strategic-value)
-7. [Current Status](#current-status)
+8. [Current Status](#current-status)
 
 ---
 
@@ -107,6 +111,82 @@ Alexlmiller further clarified intentions in a revised draft, stating that:
 #### Voting Restrictions
 Additionally:
 > "the Endowment will also be prohibited from voting its own tokens on SIPs to ensure neutrality"
+
+---
+
+## Economic Impact on STX Holders
+
+For STX holders, the SIP-031 emission event presents a trade-off between short-term dilution risk and long-term ecosystem growth potential.
+
+### Dilution and Supply Dynamics
+
+#### Increased Supply and Potential Dilution
+The proposal introduces new STX emissions totaling **400 million STX** over a five-year period, in addition to existing coinbase rewards. This comprehensive emission structure includes:
+
+**Initial Working Capital (100M STX)**
+- A one-time mint of 100 million STX for initial working capital (grants, DeFi deployments)
+- These tokens will be immediately unlocked and usable
+- **Not intended for release onto the open market**
+
+**Operational Capital Raising (100M STX)**
+- Another 100 million STX from new emissions will be sold via OTC/private placements
+- These sales will have **12-36 month lockups**
+- **Not directly impacting the open market**
+
+**Treasury Deposits (300M STX)**
+- The remaining 300 million STX will be emitted over 60 months
+- Deposited directly to the Treasury address
+
+#### Inflation Rate Impact
+- These new emissions will temporarily increase Stacks' total annual emissions **from 3.52% to an average of 5.75% per year** over the next five years
+- This increase is designed to remain **below the median inflation rate of other top 50 crypto ecosystems (10.18%)**
+- Some community members have expressed concerns about this "money printing" action potentially leading to:
+  - Dilution
+  - Price suppression 
+  - Erosion of long-term trust
+- The economic analysis aims to mitigate the short-term impact on STX holders
+
+### Ecosystem Growth Investment
+
+#### Funding for Ecosystem Growth and Value Accrual
+The primary purpose of these emissions is to create a dedicated Stacks Endowment with a consolidated STX treasury focused on accelerating ecosystem growth. This capital will be deployed across grants, incentives, security, marketing, liquidity, and business development initiatives to fuel the Stacks ecosystem into a **Top 10 ecosystem**.
+
+#### Key Funding Areas
+
+**sBTC Protocol & Stacks Value Accrual**
+Supporting the development of:
+- sBTC features (like self-custodial minting)
+- Dual stacking
+- Bitcoin payment use cases
+- BTC yield strategies
+- Creating a self-reinforcing flywheel where increased protocol usage drives STX demand and revenue growth
+
+**Ecosystem Growth**
+Scaling through:
+- Total Value Locked (TVL) growth
+- Liquidity enhancement
+- User adoption initiatives
+- DeFi incentives
+- sBTC TVL milestones
+- Stablecoin integrations
+- Grant programs
+
+**Improved Market Dynamics**
+- Strategic treasury deployment
+- Financial stewardship intended to improve market dynamics
+- STX token value potential enhancement
+
+### Long-term Value Proposition
+
+#### Post-Emission Outlook
+- **After the five-year emission period**: Annual inflation for STX is projected to drop to **less than 2%**
+- Proponents argue this strategic investment is crucial for Stacks to compete effectively with other leading crypto projects
+- The expectation is that resulting ecosystem growth will outweigh any negative market pressure from increased supply
+
+#### Value Thesis
+- By investing heavily now, the overall value of the Stacks ecosystem will significantly increase
+- Individual STX holdings are expected to appreciate due to ecosystem growth
+- The long-term value creation is intended to compensate for short-term dilution effects
 
 ---
 
