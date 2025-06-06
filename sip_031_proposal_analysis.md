@@ -1,42 +1,42 @@
 # SIP-031: Stacks Ecosystem Growth Proposal
 
-
-[Fact check this report using NotebookLM: ](https://notebooklm.google.com/notebook/47d629d4-5561-4c42-a6f0-dc0d70977910)
-
-
 ## Table of Contents
 
 1. [Executive Summary](#executive-summary)
-2. [Purpose and Proposed Changes](#purpose-and-proposed-changes)
+2. [Community Action Items](#community-action-items)
+   - [Immediate Actions](#immediate-actions)
+   - [Ongoing Oversight Requirements](#ongoing-oversight-requirements)
+   - [Long-term Community Organization](#long-term-community-organization)
+3. [Purpose and Proposed Changes](#purpose-and-proposed-changes)
    - [Core Objectives](#core-objectives)
    - [Key Proposed Changes](#key-proposed-changes)
    - [Funding Structure](#funding-structure)
    - [Operational Structure](#operational-structure)
    - [Transparency and Accountability](#transparency-and-accountability)
-3. [Economic Impact on STX Holders](#economic-impact-on-stx-holders)
+4. [Economic Impact on STX Holders](#economic-impact-on-stx-holders)
    - [Dilution and Supply Dynamics](#dilution-and-supply-dynamics)
    - [Ecosystem Growth Investment](#ecosystem-growth-investment)
    - [Long-term Value Proposition](#long-term-value-proposition)
-4. [Governance and Centralization Risks](#governance-and-centralization-risks)
+5. [Governance and Centralization Risks](#governance-and-centralization-risks)
    - [Treasury Committee Authority and Composition](#treasury-committee-authority-and-composition)
    - [Initial Appointment Concerns](#initial-appointment-concerns)
    - [Leadership Selection Process](#leadership-selection-process)
    - [Philosophical and Practical Concerns](#philosophical-and-practical-concerns)
-5. [Technical Implementation Details](#technical-implementation-details)
+6. [Technical Implementation Details](#technical-implementation-details)
    - [Emission Schedule](#emission-schedule)
    - [Token Supply Impact](#token-supply-impact)
    - [Governance and Voting](#governance-and-voting)
-6. [Community Perspectives](#community-perspectives)
+7. [Community Perspectives](#community-perspectives)
    - [Supportive Perspectives](#supportive-perspectives)
    - [Critical Perspectives](#critical-perspectives)
-7. [Stacks Ecosystem Context](#stacks-ecosystem-context)
+8. [Stacks Ecosystem Context](#stacks-ecosystem-context)
    - [SIP Process](#sip-process)
    - [Technical Standards](#technical-standards)
    - [Proposed Enhancements](#proposed-enhancements)
-8. [Philosophical Framework](#philosophical-framework)
+9. [Philosophical Framework](#philosophical-framework)
    - [Bitcoin Power Projection Theory](#bitcoin-power-projection-theory)
    - [Computational Efficiency vs Strategic Value](#computational-efficiency-vs-strategic-value)
-9. [Current Status](#current-status)
+10. [Current Status](#current-status)
 
 ---
 
@@ -54,6 +54,72 @@ SIP-031, also known as SIP-31, is a significant draft proposal for the Stacks ec
 ### Initial Statement
 Tycho initiated the discussion on SIP-031, stating:
 > "SIP-031... has been compiled with the help of many and is in a draft state as we begin to further socialize and collect feedback. You may still see some placeholders or comments as you work through it, so don't mind the dust!"
+
+---
+
+## Community Action Items
+
+To protect against centralization risks and ensure community voice in SIP-031's implementation, STX holders and community members should take the following actions:
+
+### Critical Success Metrics
+
+**The community should measure success by:**
+- **Appointment Transparency**: Are all key positions filled through open, competitive processes?
+- **Financial Accountability**: Can community members easily verify all fund usage?
+- **Decision Influence**: Does community input demonstrably affect major decisions?
+- **Decentralization Maintenance**: Are power structures becoming more or less centralized over time?
+- **Performance Alignment**: Are Endowment outcomes serving broader community interests?
+
+**Warning Signs to Monitor:**
+- Closed-door appointment processes
+- Unexplained fund movements or allocation changes
+- Dismissal of community concerns as "uninformed" or "unrealistic"
+- Increasing barriers to community participation
+- Growing influence of a small group of recurring appointees
+
+### Immediate Actions
+
+#### 1. Demand Transparency in Initial Appointments
+- **Action**: Actively advocate for full disclosure of the temporary Appointments Committee composition and the Chief Marketing Officer appointment.
+- **Why**: The "OPEN ITEM" status of initial appointments poses the highest centralization risk
+- **How**: 
+  - Request public vetting process for all initial appointees
+  - Advocate for community input before any appointments are finalized
+
+### Ongoing Oversight Requirements
+
+#### 2. Establish Community Treasury Watchdog Groups
+- **Action**: Form independent community monitoring organizations
+- **Why**: Professional oversight is needed to verify Endowment transparency claims
+- **How**:
+  - Organize technically competent community members
+  - Create regular audit schedules and public reporting
+  - Establish whistleblower protections and channels
+
+#### 3. Monitor Token Flow and Distribution
+- **Action**: Track the 400M STX emission allocation and distribution patterns
+- **Why**: Prevent Cantillon Effect exploitation and verify stated usage plans
+- **How**:
+  - Create community-run blockchain analysis tools
+  - Create community-operated Stacks Node (thanks GPSC!)
+  - Document all major token movements and recipients
+  - Verify that OTC/private sales follow stated 12-36 month lockup terms
+
+#### 4. Participate in All Nomination Processes
+- **Action**: Actively engage in future Treasury Committee and leadership appointments
+- **Why**: Community participation is the primary defense against insider control
+- **How**:
+  - Submit qualified community candidates for all positions
+  - Participate in nomination periods and voting when available
+  - Document and publicize the selection process for accountability
+
+### Long-term Community Organization
+
+#### 12. Advocate for Structural Safeguards
+- **Action**: Push for additional SIP amendments that build in community protection mechanisms
+- **Why**: Prevent future centralization through structural design rather than relying only on good faith
+- **How**:
+  - Propose mandatory community veto powers for major decisions
 
 ---
 
