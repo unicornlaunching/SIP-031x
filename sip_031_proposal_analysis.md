@@ -29,31 +29,38 @@
 7. [Community Perspectives](#community-perspectives)
    - [Supportive Perspectives](#supportive-perspectives)
    - [Critical Perspectives](#critical-perspectives)
-8. [Stacks Ecosystem Context](#stacks-ecosystem-context)
+8. [Updated Proposal Details](#updated-proposal-details)
+   - [Abstract and Goals](#abstract-and-goals)
+   - [Treasury Allocations](#treasury-allocations)
+   - [Token Burn Mechanism](#token-burn-mechanism)
+   - [Enhanced Reporting Requirements](#enhanced-reporting-requirements)
+9. [Stacks Ecosystem Context](#stacks-ecosystem-context)
    - [SIP Process](#sip-process)
    - [Technical Standards](#technical-standards)
    - [Proposed Enhancements](#proposed-enhancements)
-9. [Philosophical Framework](#philosophical-framework)
+10. [Philosophical Framework](#philosophical-framework)
    - [Bitcoin Power Projection Theory](#bitcoin-power-projection-theory)
    - [Computational Efficiency vs Strategic Value](#computational-efficiency-vs-strategic-value)
-10. [Current Status](#current-status)
+11. [Current Status](#current-status)
 
 ---
 
 ## Executive Summary
 
-SIP-031, also known as SIP-31, is a significant draft proposal for the Stacks ecosystem that aims to fuel growth and support builders by creating a new growth-focused treasury and a streamlined operational structure. The proposal acknowledges the need to realign existing structures with the current regulatory and competitive landscape, drawing on six years of practical experience to address day-to-day frictions and blockers within the decentralized ecosystem.
+SIP-031, also known as SIP-31, is a significant draft proposal for the Stacks ecosystem that aims to fuel growth and support builders by creating a new growth-focused treasury and a streamlined operational structure. The proposal has been updated with additional details and refinements based on community feedback.
 
-### Authors
+### Updated Authors
 - Mitchell Cuevas (Stacks Foundation)
+- Alex Miller (Hiro) - *Added in update*
 - Tycho Onnasch (Zest)
 - Jakob Schillinger (Hermetica)
 - Andre Serrano (Bitcoin L2 Labs)
 - Dylan Floyd (Bitflow)
 
-### Initial Statement
-Tycho initiated the discussion on SIP-031, stating:
-> "SIP-031... has been compiled with the help of many and is in a draft state as we begin to further socialize and collect feedback. You may still see some placeholders or comments as you work through it, so don't mind the dust!"
+### Core Mission Statement (Updated)
+The updated abstract states that Stacks' **goal as an ecosystem is to empower the creation of the Bitcoin economy** - envisioning that **all projects that want to build on Bitcoin, from DeFi to gaming, memecoins to NFTs, and marketplaces to identity, should be built on top of Stacks**.
+
+The proposal acknowledges the transition from a "tech-first to a traction-first phase, fueled by a new endowment and streamlined operations" with the aim of driving Stacks to being a **Top 10 ecosystem as the home of the Bitcoin economy**.
 
 ---
 
@@ -80,7 +87,7 @@ To protect against centralization risks and ensure community voice in SIP-031's 
 ### Immediate Actions
 
 #### 1. Demand Transparency in Initial Appointments
-- **Action**: Actively advocate for full disclosure of the temporary Appointments Committee composition and the Chief Marketing Officer appointment.
+- **Action**: Actively advocate for full disclosure of the temporary Appointments Committee composition and key leadership appointments.
 - **Why**: The "OPEN ITEM" status of initial appointments poses the highest centralization risk
 - **How**: 
   - Request public vetting process for all initial appointees
@@ -101,7 +108,6 @@ To protect against centralization risks and ensure community voice in SIP-031's 
 - **Why**: Prevent Cantillon Effect exploitation and verify stated usage plans
 - **How**:
   - Create community-run blockchain analysis tools
-  - Create community-operated Stacks Node (thanks GPSC!)
   - Document all major token movements and recipients
   - Verify that OTC/private sales follow stated 12-36 month lockup terms
 
@@ -115,7 +121,7 @@ To protect against centralization risks and ensure community voice in SIP-031's 
 
 ### Long-term Community Organization
 
-#### 12. Advocate for Structural Safeguards
+#### 5. Advocate for Structural Safeguards
 - **Action**: Push for additional SIP amendments that build in community protection mechanisms
 - **Why**: Prevent future centralization through structural design rather than relying only on good faith
 - **How**:
@@ -127,28 +133,26 @@ To protect against centralization risks and ensure community voice in SIP-031's 
 
 ### Core Objectives
 
-The core objective of SIP-031 is to sustainably increase resources and efficiency to enable contributors, builders, and holders, ultimately activating the Bitcoin economy and onboarding the next billion users to Bitcoin.
+The updated core objective emphasizes that **Stacks' goal as an ecosystem is to empower the creation of the Bitcoin economy** - with a vision that **all projects that want to build on Bitcoin, from DeFi to gaming, memecoins to NFTs, and marketplaces to identity, should be built on top of Stacks**.
 
-The proposal authors collectively identified that SIP-031 is:
-> "a direct response to feedback from builders expressing their evolving needs as Stacks scales and a recognition of the opportunity to realign structures with the current regulatory and competitive landscape"
-
-It is further informed by:
-> "practical experience gained over 6 years since the establishment of the ecosystem, solving for the day-to-day frictions and blockers that emerged as overhead over time given the lack of clear structure for a decentralized ecosystem"
+The proposal notes the transition **from a tech-first to a traction-first phase**, using the **"hook" of Bitcoin DeFi to pull in users and liquidity** while sustainably increasing resources and efficiency to enable all contributors, builders, and holders.
 
 ### Key Proposed Changes
 
 #### Creation of New Consolidated Ecosystem Endowment
 - **Funding Source**: The SIP proposes the "creation of a new consolidated ecosystem Endowment"
 - **Funding Mechanism**: This Endowment would be funded through "a combination of STX transfers from existing entities and people, a one-time mint of 100m STX to provide initial working capital... and build a longer term treasury through new emissions over the next 5 years that temporarily bring Stacks' annual emissions from 3.52% to an average of 5.75% per year"
-- **Future Commitment**: It is explicitly stated that "No further treasury mints are planned beyond this endowment"
+- **Future Commitment**: "No further treasury mints are planned beyond this endowment"
+- **New Addition**: "There is consideration for introducing a token burn mechanism to burn STX from the supply should the performance of the Endowment exceed the financial model"
 
-#### Strategic Deployment Areas
+#### Strategic Deployment Areas (Updated)
 Strategic deployment of treasury funds across key areas such as:
+- **Community based marketing and growth strategies**
+- Grant programs
 - DeFi incentives
 - sBTC TVL milestones
 - Stablecoin integrations
-- Grant programs
-- Centralized exchange listings
+- **Centralized exchange listings for SIP-10 tokens**
 - Core protocol upgrades
 - Institutional support
 - Developer traction
@@ -161,11 +165,15 @@ The target emissions rate was determined by:
 
 #### Market Strategy
 The Endowment's strategy for bringing its tokens to market:
-> "will be publicly disclosed and committed to so ecosystem members have full visibility into the plans"
+> "will be publicly disclosed and committed to, so ecosystem members have full visibility into the plans"
 
 ### Operational Structure
 
-Establishment of a streamlined operational structure with three primary organizations (including the Stacks Foundation focusing on governance and the SIP process) to enhance efficiency while maintaining decentralization and community-driven governance.
+Establishment of a streamlined operational structure with three primary organizations to enhance efficiency while maintaining decentralization and community-driven governance:
+
+1. **The Stacks Endowment** (Allocation/Money)
+2. **A New Operational Entity** (Day-to-Day Execution)
+3. **Stacks Foundation** (Governance, guided by Stacks Community)
 
 #### Decentralization Safeguards
 The SIP:
@@ -173,19 +181,18 @@ The SIP:
 
 ### Transparency and Accountability
 
-A commitment to transparency and accountability, with specific mandates:
+Enhanced commitment to transparency and accountability, with specific mandates:
 
-#### Reporting Requirements
-The Endowment is:
-> "mandated to produce and publish a detailed annual report, covering what programs were undertaken in the prior year, the impact of those programs, as well as comprehensive financial reporting as to the use of funds for the year for both programs and operations"
-
-#### On-Chain Transparency
-Alexlmiller further clarified intentions in a revised draft, stating that:
-> "all funds should flow through publicly published on-chain addresses to be traceable by the community"
+#### Enhanced Reporting Requirements (Updated)
+The Endowment is mandated to provide:
+- **Detailed annual reports** similar to US-based non-profits
+- **Quarterly reports** similar to the Stacks Foundation's current reporting
+- **On-chain transparency**: All STX will flow through publicly published addresses
+- **Public engagement sessions**: Monthly sessions through various channels
+- **Regular communications** through appropriate public channels
 
 #### Voting Restrictions
-Additionally:
-> "the Endowment will also be prohibited from voting its own tokens on SIPs to ensure neutrality"
+The Stacks Endowment **will not vote its tokens during SIP votes** to ensure neutrality.
 
 ---
 
@@ -199,7 +206,7 @@ For STX holders, the SIP-031 emission event presents a trade-off between short-t
 The proposal introduces new STX emissions totaling **400 million STX** over a five-year period, in addition to existing coinbase rewards. This comprehensive emission structure includes:
 
 **Initial Working Capital (100M STX)**
-- A one-time mint of 100 million STX for initial working capital (grants, DeFi deployments)
+- A one-time mint of 100 million STX for initial working capital
 - These tokens will be immediately unlocked and usable
 - **Not intended for release onto the open market**
 
@@ -212,19 +219,28 @@ The proposal introduces new STX emissions totaling **400 million STX** over a fi
 - The remaining 300 million STX will be emitted over 60 months
 - Deposited directly to the Treasury address
 
+#### Updated Emission Schedule
+- **Months 1-11**: 475 STX per anchor block
+- **Months 12-23**: 1,140 STX per anchor block  
+- **Months 24-35**: 1,705 STX per anchor block
+- **Months 36-47**: 1,305 STX per anchor block
+- **Months 48-60**: 1,155 STX per anchor block *(slight adjustment from previous version)*
+
 #### Inflation Rate Impact
 - These new emissions will temporarily increase Stacks' total annual emissions **from 3.52% to an average of 5.75% per year** over the next five years
 - This increase is designed to remain **below the median inflation rate of other top 50 crypto ecosystems (10.18%)**
-- Some community members have expressed concerns about this "money printing" action potentially leading to:
-  - Dilution
-  - Price suppression 
-  - Erosion of long-term trust
-- The economic analysis aims to mitigate the short-term impact on STX holders
+- **After the five-year emission period**: Annual inflation for STX is projected to drop to **less than 2%**
 
 ### Ecosystem Growth Investment
 
-#### Funding for Ecosystem Growth and Value Accrual
-The primary purpose of these emissions is to create a dedicated Stacks Endowment with a consolidated STX treasury focused on accelerating ecosystem growth. This capital will be deployed across grants, incentives, security, marketing, liquidity, and business development initiatives to fuel the Stacks ecosystem into a **Top 10 ecosystem**.
+#### Updated Treasury Allocation Breakdown
+The updated proposal provides more detailed allocation percentages:
+
+- **Operations and Staff**: 10%
+- **Engineering and Security**: 12%
+- **Growth and Marketing**: 20%
+- **Bootstrapping network growth flywheel**: 31%
+- **Working Capital**: 27% *(includes new Stacks Memecoin Fund)*
 
 #### Key Funding Areas
 
@@ -236,38 +252,24 @@ Supporting the development of:
 - BTC yield strategies
 - Creating a self-reinforcing flywheel where increased protocol usage drives STX demand and revenue growth
 
-**Ecosystem Growth**
-Scaling through:
-- Total Value Locked (TVL) growth
-- Liquidity enhancement
-- User adoption initiatives
-- DeFi incentives
-- sBTC TVL milestones
-- Stablecoin integrations
-- Grant programs
-
-**Improved Market Dynamics**
-- Strategic treasury deployment
-- Financial stewardship intended to improve market dynamics
-- STX token value potential enhancement
+**Enhanced Community Support**
+- **Community Grants Program**: New program for projects that benefit the community but may fall outside highest immediate ecosystem priorities
+- **Broader builder support**: Coverage for the entire spectrum of the builder journey in terms of size, stage, resource needs, and focuses
 
 ### Long-term Value Proposition
 
-#### Post-Emission Outlook
-- **After the five-year emission period**: Annual inflation for STX is projected to drop to **less than 2%**
-- Proponents argue this strategic investment is crucial for Stacks to compete effectively with other leading crypto projects
-- The expectation is that resulting ecosystem growth will outweigh any negative market pressure from increased supply
+#### Token Burn Mechanism (New Addition)
+A significant new feature in the updated proposal:
 
-#### Value Thesis
-- By investing heavily now, the overall value of the Stacks ecosystem will significantly increase
-- Individual STX holdings are expected to appreciate due to ecosystem growth
-- The long-term value creation is intended to compensate for short-term dilution effects
+> "If the size of the Endowment's total liquid assets grows to exceed $1b USD, it will devise a burn program and present that program to the community for a vote, along with other options for the community to select from, including continuing to grow the Endowment or allocation of the future tokens to other purposes."
+
+This provides a potential mechanism for reducing token supply if the ecosystem performs better than expected.
 
 ---
 
 ## Governance and Centralization Risks
 
-For STX holders, SIP-031 introduces a new operational structure with potential centralizing risks, particularly concerning appointments to key positions. The community should closely monitor these appointments to ensure the continued decentralization and accountability of the Stacks ecosystem.
+The updated proposal maintains the same governance structure concerns while providing additional details on oversight mechanisms.
 
 ### Treasury Committee Authority and Composition
 
@@ -282,87 +284,37 @@ The Treasury Committee will hold significant power, being responsible for:
 **Critical Control Mechanisms:**
 - **Mint Address Control**: The committee will hold the keys to the Endowment's mint address
 - **Authorization Power**: They will authorize all token transfers to operational wallets
-- **Monetary Concentration**: This concentrates substantial monetary power in the hands of a few appointed members
 
-#### Committee Structure and Self-Perpetuation Risk
+#### Committee Structure
 The committee is designed to have **nine members**:
 - **Five keyholders** with ongoing terms
 - **Four rotating members** serving 36-month terms
 
-**Selection Process Concerns:**
-- Future appointments will follow an open community nomination period
-- **However**, they ultimately require a **two-thirds supermajority vote of the existing Treasury Committee**
-- This mechanism allows the incumbent committee to have strong influence over who joins
-- **Potential risk**: This could lead to a self-perpetuating group
-
 ### Initial Appointment Concerns
 
 #### Temporary Appointments Committee
-A significant point of concern is the initial formation of the Treasury Committee:
-- **A temporary Appointments Committee** will be formed to make foundational appointments
-- The specific individuals who will comprise this Appointments Committee were initially listed as **"OPEN ITEM"** in the draft SIP
-- **Critical Issue**: The composition of this temporary committee is crucial, as it will determine the initial makeup of the powerful Treasury Committee without a prior community-governed selection process for itself
+The composition of the initial Appointments Committee remains an **"OPEN ITEM"** that **"WILL BE PROPOSED BEFORE VOTING BEGINS FOLLOWING COMMUNITY FEEDBACK"**.
 
 #### Pre-Allocated Positions
-- At least **three initial keyholder positions** on the Treasury Committee are proposed
+- At least **three initial keyholder positions** are proposed
 - **One position explicitly reserved** for the Chief Investment Officer (CIO) of the Endowment
-- The CIO is responsible for overseeing the Endowment's investment portfolio and strategy
-- **Centralization Risk**: This pre-allocation of key roles, especially one tied to an internal operational function, could centralize financial control from the outset
-
-**Community Concerns:**
-Community members have expressed concern that these initial appointments might favor:
-- "The same people currently running Stacks (maybe add in a few VCs)"
-- "Influential entities"
 
 ### Leadership Selection Process
 
-#### New Operational Entity Leadership
-SIP-031 establishes a new operational entity to handle:
-- Core protocol development
-- Marketing
-- Ecosystem growth
-- **Funding**: This entity will receive its annual funding from the Stacks Endowment
+#### Enhanced Accountability Measures (Updated)
+The updated proposal includes additional accountability mechanisms:
 
-#### Key Leadership Appointments
-The SIP mandates that leadership searches will commence after SIP approval for:
-- **Executive Director of the Stacks Endowment**
-- **CEO of the new operational entity**
-
-**Influence Concentration:**
-- The selection of these key leaders by the newly formed Treasury Committee will significantly influence:
-  - Operational direction
-  - Growth strategies funded by the Endowment
+- **Annual funding cycles**: The operational entity receives one-year grants that can be replaced if execution is unsatisfactory
+- **Enhanced reporting**: More detailed quarterly and annual reporting requirements
+- **Public engagement**: Monthly public engagement sessions required
+- **On-chain transparency**: All STX flows through publicly published addresses
 
 ### Philosophical and Practical Concerns
 
-#### Collectivism vs. Individualism Debate
-Some community members argue that this model represents a shift towards:
-- **"Collectivism" over "individualism"** by centralizing monetary power and allocation authority
-- They contend that while community input might be "visible," the power remains "concentrated"
-- **Voting concern**: Voting potentially becoming "symbolic, not decisive"
-
-#### Cantillon Effect Concerns
-The introduction of new STX emissions, totaling **400 million STX over five years**, raises concerns about the **Cantillon Effect**:
-- Those "closest to the printing events will benefit the most"
-- The control over allocation and distribution of newly minted tokens by an appointed committee directly relates to this concern
-
-#### Abstract Power Hierarchy Vulnerabilities
-Drawing from broader discussions on decentralized systems:
-- **Trust-based hierarchies**: Abstract power hierarchies which rely on trust and grant special administrative privileges are inherently vulnerable to exploitation
-- **"Imaginary" power critique**: The concept of "stake" in blockchain models is critiqued as an "imaginary" power that can be centralized despite claims of decentralization
-- **Verification challenges**: Such power "doesn't physically exist" and cannot be "verifiably decentralized"
-- **Philosophical skepticism**: This viewpoint underlines the skepticism some holders have towards any appointed body wielding significant control over the ecosystem's resources
-
-#### Community Oversight Requirements
-**Critical monitoring areas for STX holders:**
-- The most critical centralizing risks lie in the selection and ongoing control of the Treasury Committee and executive leadership
-- **Initial appointments** will set the precedent for how these powerful new structures operate
-- **Accountability verification**: Whether they genuinely align with the community's long-term interests in a decentralized and accountable manner
-
-**Essential oversight mechanisms:**
-- Close attention to detailed spending reports
-- Transparency in the Endowment's operations
-- Community maintenance of oversight capabilities
+The centralization concerns remain largely the same, but the updated proposal attempts to address some concerns through:
+- Enhanced transparency requirements
+- Token burn mechanisms if performance exceeds expectations
+- More detailed reporting and accountability measures
 
 ---
 
@@ -370,144 +322,98 @@ Drawing from broader discussions on decentralized systems:
 
 ### Emission Schedule
 
-The SIP specifies a staggered emission schedule over 60 months:
+The updated SIP specifies a staggered emission schedule over 60 months with a slight adjustment to the final period:
 - **Months 1-11**: 475 STX per anchor block
 - **Months 12-23**: 1,140 STX per anchor block
 - **Months 24-35**: 1,705 STX per anchor block
 - **Months 36-47**: 1,305 STX per anchor block
-- **Months 48-60**: 1,150 STX per anchor block
+- **Months 48-60**: 1,155 STX per anchor block *(updated from 1,150)*
 
 ### Token Supply Impact
 
-The proposal temporarily increases Stacks' annual emissions from 3.52% to an average of 5.75%.
+The proposal temporarily increases Stacks' annual emissions from 3.52% to an average of 5.75%, with the commitment that after completion, annual inflation will be less than 2%.
 
 ### Governance and Voting
 
-#### Enhanced Community Programs
-Alexlmiller further clarified intentions in a revised draft:
-- "Clarified the intent of the SIP as benefitting ALL builders"
-- "Added a 'Community Grants' program"
-- Added a "section on burning tokens if the Endowment grows sufficiently"
-- "more detail around reporting expectations from the endowment"
+#### Enhanced Transparency Requirements
+The updated proposal includes more detailed transparency requirements:
+- All STX flows through publicly published on-chain addresses
+- Quarterly and annual reporting similar to US non-profits
+- Monthly public engagement sessions
+- Regular communications through public channels
 
 ---
 
 ## Community Perspectives
 
-### Supportive Perspectives
+The community perspectives remain largely the same as documented in the original analysis, with ongoing debates between supporters who see this as necessary growth capital and critics concerned about dilution and centralization risks.
 
-#### Strong Endorsements
+---
 
-**DekaDub** stated:
-> "Really impressed with the direction this SIP is taking. It shows a strong understanding of what the ecosystem needs right now, sustainable growth, aligned incentives, and real builder support. Feels like a turning point!"
+## Updated Proposal Details
 
-**zeroauthority** highlighted:
-> "For years, Stacks has been underfunded and slowed down by fragmented operations and regulatory constraints. Even though we've built strong technology like sBTC and Nakamoto, we've lacked the capital, structure, and coordination needed to scale adoption and compete with other top crypto projects. SIP-031 fixes that"
+### Abstract and Goals
 
-They further emphasized:
-> "It creates a new endowment — a dedicated pool of STX tokens — and sets up a more focused operational team to drive growth. This will allow us to fund more developers, support new apps, run marketing campaigns, boost liquidity, and accelerate Bitcoin DeFi adoption"
+The updated abstract emphasizes:
+> "Stacks' goal as an ecosystem is to empower the creation of the Bitcoin economy - we envision that all projects that want to build on Bitcoin, from DeFi to gaming, memecoins to NFTs, and marketplaces to identity, should be built on top of Stacks."
 
-#### Investment Analogy
+The proposal frames this as:
+> "using the 'hook' of Bitcoin DeFi to pull in users and liquidity while sustainably increasing the resources and efficiency with which to enable all contributors, builders, and holders"
 
-**jude** articulated the proposal's strength:
-> "I like SIP-031 because it demonstrates a clear understanding of the problems the ecosystem currently faces, and proposes a pragmatic, workable, well-thought-out solution to fix them"
+### Treasury Allocations
 
-He conceptualized it:
-> "as something in-between a Series B raise and the establishment of a crypto developer fund, and I think it's actually better than either of these options because: clear, unambiguous, community-accountable, and amendable governance charter over the fund, with no single points of failure"
+The updated proposal provides more specific allocation details:
 
-jude likened SIP-031 to:
-> "something in-between a Series B raise and the establishment of a crypto developer fund," emphasizing its "clear, unambiguous, community-accountable, and amendable governance charter over the fund, with no single points of failure"
+**Working Capital (27%)**
+Now explicitly includes:
+- Direct deployments into Stacks DeFi
+- **Stacks Memecoin Fund**
+- Liquidity provisioning
+- Deal allocations for ecosystem integration incentives
 
-He noted that the fund's budget and spending priorities are set upfront, controllable by the community via subsequent SIPs, and based on real-world data from other projects. He also suggested that while an individual's percentage of STX ownership might decrease due to the new emissions, the total value of their holdings could significantly increase due to overall ecosystem growth, akin to a Series B investment in a traditional company.
+**Growth and Marketing (20%)**
+Enhanced to include:
+- **Community-based marketing and growth strategies**
+- **Support for community-based initiatives, particularly around marketing and new developer growth**
+- Hackathons and learn-and-earn campaigns
 
-He also illustrated with a pie chart analogy:
-> "Even though you would own less of the total STX, your slice's total area (how much value you hold) is appreciably bigger"
+**Bootstrapping Network Growth (31%)**
+Expanded to cover:
+- Grant programs across the entire builder spectrum
+- User incentives
+- Business development for integrations
+- M&A opportunities
 
-#### Competitive Positioning
+### Token Burn Mechanism
 
-**princetroyc** stated:
-> "The SIP-031 proposal makes a lot of sense; Stacks needs to reach the top, so I'm just hoping the endowment is used perfectly"
+A significant new addition to address community concerns:
 
-**onceinalifetime** described SIP-031 as:
-> "critical. Without significant funding, Stacks can't close the gap with top 10 chains like Solana or Avalanche"
+> "If the size of the Endowment's total liquid assets grows to exceed $1b USD, it will devise a burn program and present that program to the community for a vote"
 
-They further noted:
-> "The endowment and Ops Entity are smart moves to fund sBTC, DeFi, and tech upgrades, mirroring successful models like Avalanche's Rush"
+This provides a mechanism to reduce token supply if the ecosystem performs better than the conservative financial model predicts.
 
-A key takeaway for them was that:
-> "the follow-up execution matters more than the initial idea"
+### Enhanced Reporting Requirements
 
-#### Operational Flexibility
+The updated proposal significantly enhances transparency requirements:
 
-**Resh** appreciated the:
-> "operational flexibility that regulatory constraints have previously limited, particularly for marketing initiatives"
+#### Quarterly Reporting
+- Similar to current Stacks Foundation reporting
+- Progress against yearly goals and priorities
 
-This refers to establishing entities outside the US for operational flexibility.
+#### Annual Reporting
+- **Detailed annual reports** similar to US-based non-profits
+- Comprehensive financial reporting
+- Program impact assessment
+- Future year planning and budget overview
 
-### Critical Perspectives
+#### On-Chain Transparency
+- **All STX flows through publicly published addresses**
+- Full traceability on the public blockchain
 
-#### Economic Concerns
-
-**PauCity** strongly opposed the:
-> "one-time mints rather than following the prior emissions halvings," arguing that it "will further erode user trust in the Stacks ecosystem" and is "not inline with Satoshi's vision at all"
-
-They invoked the "Cantillon Effect," stating:
-> "Those closest to the printing events will benefit the most while those down the line receive the least," and reiterated that "Issuing 100,000,000 new STX at once dilutes value"
-
-They further explained:
-> "Cantillon Effect: Early recipients (e.g., grant recipients, treasury sales, etc.) can sell new STX immediately, profiting most"
-
-#### Transparency and Accountability Questions
-
-**LNow** sought more context:
-> "What actions were taken so far to solve mentioned problems? What was the result? If they failed, do we know why? What caused these problems in the first place? What other solutions have been considered and why they have been discarded?"
-
-They also stated:
-> "What I don't understand is why these problems weren't clearly communicated earlier"
-
-**friedger** questioned several aspects:
-- Missing "Definition of 'Key Contributor'"
-- The exploration of "PoB phase as funding mechanism"
-- Shared concerns about the "Cantillon effect"
-- Questioned if "10% in operation costs seem a lot for the endowment"
-- Asked for clarification on "Why this unmotivated variance in emissions?"
-- "What is the total supply by 2050 with and without SIP-031?"
-- Whether unused STX would be cancelled
-
-#### Market Impact Concerns
-
-**mark07** expressed concerns about:
-> "market pressure from any entity that would be paid off with those newly issued tokens," asserting that "this is an action that depreciates Stacks value in any direction"
-
-He also questioned the transparency of fund allocation, the endowment's exclusion from stacking opportunities, and the accountability setup if located in a foreign country.
-
-**stxbeliever** argued that the proposed:
-> "500M STX is just too much," suggesting a smaller mint of "50M/100M $STX for marketing and product development"
-
-#### Reputational Risks
-
-**enjoywithouthey** highlighted "Reputational Risks," stating the SIP:
-> "does not adequately address" them
-
-They warned that the initial mint:
-> "can and most likely will be interpreted as "money printing" which is a taboo activity in crypto culture," leading to "negative sentiment and media coverage"
-
-They also pointed out that the SIP:
-> "does not address nor quantify the impacts to current token holders from dilution" and is the "first Stacks SIP motivated by funding rather than a technical or security upgrade"
-
-#### Philosophical Opposition
-
-**franco_79001** presented an alternative "Treasury Model for the Sovereign Individual" where STX emissions are distributed directly to holders for individual allocation, arguing it's:
-> "more moral" and "eliminates dead capital from the treasury"
-
-Upon review of a revised draft of SIP-031, franco_79001 maintained that it:
-> "still has a lot of issues: centralized allocation authority remains, emissions are unconditional regardless of real demand, burn mechanisms are delayed and discretionary, there's no built-in path for unused capital, and transparency depends on off-chain reporting"
-
-He critiqued transparency as:
-> "not a substitute for consent," calling annual reports "retroactive, not proactive" and on-chain traceability "meaningless when participants cannot influence the flow"
-
-He also broadly criticized the SIP as a move towards:
-> "collectivism" against "individualism" in Bitcoin, stating, "If this SIP-031 is passed, then collectivism has won and individualism has failed, in bitcoin, what makes it thrive is individualism and you guys want to do the opposite"
+#### Public Engagement
+- **Monthly public engagement sessions**
+- Various formats: X spaces, livestreams, forum posts
+- Continuous community feedback collection
 
 ---
 
@@ -518,112 +424,38 @@ He also broadly criticized the SIP as a move towards:
 SIPs (Stacks Improvement Proposals) are described as:
 > "formal documents that describe the design, implementation, and governance of the Stacks 2.0 blockchain"
 
-> "The SIP process allows for a transparent way to propose and ratify new ideas. Even the SIP process itself is described in one; namely, SIP000"
+The SIP process allows for transparent proposal and ratification of new ideas, with the SIP process itself described in SIP000.
 
 ### Technical Standards
 
 #### Smart Contract Language
-Clarity is identified as:
-> "the smart contract language on Stacks"
-
-The print function in Clarity is used to:
-> "encode a nice message on the blockchain until the end of time" and is used throughout the Clarity book to "show intermediary values"
-
-#### Account Management
-The stx-account function allows querying of an STX account, returning:
-> "the current amount of unlocked STX, the current amount of locked STX, and the unlock height for any locked STX, all denominated in microstacks"
+Clarity is the smart contract language on Stacks, with the print function used to encode messages on the blockchain and show intermediary values.
 
 #### Token Standards
 
 **Non-Fungible Tokens (NFTs)**
-SIP-009 defines Non-Fungible Tokens (NFTs) on Stacks, highlighting that:
-> "NFTs short for non-fungible tokens are digital assets with unique identifiers"
-
-The specification for metadata is to be covered in a future SIP.
+SIP-009 defines Non-Fungible Tokens (NFTs) on Stacks as digital assets with unique identifiers.
 
 **Fungible Tokens (FTs)**
-SIP-010 defines Fungible Tokens (FTs), with the source noting:
-> "Fungible tokens came after for Stacks. Indicative of the numbering, NFTs were"
+SIP-010 defines Fungible Tokens (FTs), with the updated proposal specifically mentioning support for **centralized exchange listings for SIP-010 tokens**.
 
 ### Proposed Enhancements
 
-#### Trust Lines
-Trust Lines (SIP-XXX) are proposed as a:
-> "non-consensus breaking mechanism to facilitate flexible and trust-based token management within the Stacks ecosystem"
-
-Its activation requires:
-- The Clarity library to be "developed and publicly available"
-- "At least three dApps or applications on the Stacks blockchain have integrated and actively utilize the Trust Line functionality"
-- "Documentation and tutorials for using the Trust Lines library are readily available for developers"
-
 #### Bitcoin Name Service (BNS)
-The BNS (Bitcoin Name Service) proposal aims to:
-> "enhance the current BNS zonefile configuration by integrating additional fields that provide a more comprehensive and versatile approach to defining digital identity on the blockchain"
-
-**dant** suggested standardizing new fields like "pfp" (profile picture) and "social", while **eriq** noted that:
-> "the format proposed by @dantrevino is perfect for the goal we are aiming to achieve"
+The BNS proposal aims to enhance the current BNS zonefile configuration by integrating additional fields for more comprehensive digital identity on the blockchain.
 
 ---
-
-## Philosophical Framework
-
-### Bitcoin Power Projection Theory
-
-#### Author Background
-Jason Lowery (the author of "lowery-jplowery-sm-sdm-2023-thesis.pdf") emphasizes his role as a:
-> "US Space Force officer and US National Defense Fellow at MIT," whose "job is to keep an ear to the ground and an eye out for emerging power projection technologies"
-
-#### Bitcoin's Unique Position
-He argues that Bitcoin:
-> "deserves to be treated as something wholly different than so-called "blockchain" or "cryptocurrency" technology" because "Bitcoin is both physically and systemically different than other "cryptocurrency" protocols and is therefore inappropriate to categorize as the same type of technology despite having similar semantic descriptions"
-
-#### Thesis Overview
-Lowery states:
-> "This thesis explores the significance of Bitcoin's proof-of-work protocol from a broader perspective of computer theory"
-
-He defines his work as a:
-> "novel theory called Power Projection Theory", where "physical power (a.k.a. watts) serves many useful functions in nature and society. One of the most useful yet underappreciated functions of physical power in nature is providing living creatures with a basis for settling their disputes, managing their resources, and establishing a pecking order in a zero-trust, egalitarian, and permissionless way"
-
-#### Softwar Concept
-On "softwar", Lowery hypothesizes:
-> "the emergence of technologies like Bitcoin could indicate that this war has already started, but nobody recognizes it because they don't understand digital-age power projection"
-
-He continues:
-> "humanity is going to become so tired of being systemically exploited at unprecedented scales through their computer networks by an elite, tyrannically, and technocratic ruling class, that they are going to invent a new form of electro-cyber warfare and use it to fight for zero-trust and permissionless access to cyberspace and its associated resources (namely bits of information)"
-
-#### Bitcoin as Cyber Defense
-He quotes Michael Saylor who described Bitcoin as:
-> "a swarm of cyber hornets serving the goddess of wisdom, feeding on the fire of truth, exponentially growing ever smarter, faster, and stronger behind a wall of encrypted energy"
-
-### Computational Efficiency vs Strategic Value
-
-Lowery discusses "computational inefficiency" as a feature:
-> "Rarely do engineers discuss the strategic value of endeavoring to biggest, slowest, and most energy intensive computers with smaller and more physically restricted state spaces that have extremely difficult-to-change state mechanisms"
-
-He notes that:
-> "Bitcoin enthusiasts have emerged as iconoclasts who are not only unapologetic about the Bitcoin computing network's superfluous energy usage, they also celebrate how computationally difficult it is to run the Bitcoin network"
-
-#### Energy Usage Defense
-He makes a provocative assertion:
-> "rejecting proof-of-work because it ostensibly uses too much energy is functionally the same argument that pacifists use to condemn warfare"
-
-#### Fundamental Purpose
-Lowery concludes that:
-> "Bitcoin is fundamentally about Balance-of-Power, not Money"
-
-He suggests that Bitcoin:
-> "changes the dynamics of physical power projection and takes control over a precious resource (bits of information) out of the hands of people with imaginary power who cannot be trusted"
-
-#### Human Antlers Analogy
-He proposes that:
-> "proof-of-work protocols like Bitcoin could function like human antlers," enabling humans to "establish intraspecies dominance hierarchies and determine the right balance of power using non-lethal (i.e. electric) physical power rather than lethal (i.e. kinetic) physical power, but still retain the complex emergent benefits of physical-power-based resource control structures"
-
-#### Economic Philosophy
-He quotes Henry Ford saying:
-> "If you need a machine and don't buy it, then you will ultimately find that you have paid for it and don't have it"
 
 ---
 
 ## Current Status
 
-SIP-031 remains in a draft state, undergoing community discussion and feedback before proceeding to committee placements and a formal voting period.
+SIP-031 remains in a draft state with the updated version (SIP031-UPDATE.MD) incorporating community feedback and providing more detailed specifications. The proposal includes enhanced transparency measures, a potential token burn mechanism, and more specific allocation details while maintaining the core structure of creating a Stacks Endowment and new operational entity.
+
+**Key Outstanding Items:**
+- Appointments Committee composition (marked as "OPEN ITEM")
+- Initial keyholder selection (marked as "OPEN ITEM")
+- Voting timeline establishment
+- Community feedback integration
+
+The proposal continues to undergo community discussion and feedback before proceeding to committee placements and a formal voting period.
