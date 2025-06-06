@@ -1,5 +1,9 @@
 # SIP-031: Stacks Ecosystem Growth Proposal
 
+
+[Fact check this report using NotebookLM: ](https://notebooklm.google.com/notebook/47d629d4-5561-4c42-a6f0-dc0d70977910)
+
+
 ## Table of Contents
 
 1. [Executive Summary](#executive-summary)
