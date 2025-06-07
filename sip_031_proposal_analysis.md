@@ -84,6 +84,14 @@ To protect against centralization risks and ensure community voice in SIP-031's 
 - Increasing barriers to community participation
 - Growing influence of a small group of recurring appointees
 
+## GREAT NEWS!
+
+from cuevasm - 
+
+Hey Stackers, as you may have been previewed on today’s Spaces with DeOrganized Media, we’re putting forward a process to establish the nominations for the Appointments Committee for SIP-031. In short, we plan to facilitate a short series of special sessions. The structure we’re outlining below will allow for wide-ranging input while also moving fast as the SIP progresses (see the latest version here ). The goal of these sessions is to produce a list of members for the Treasury Appointments Committee to include in the SIP, which will then be voted on by the community.
+
+https://forum.stacks.org/t/session-1-prep-material-sip-031-appointments-committee/18141
+
 ### Immediate Actions
 
 #### 1. Demand Transparency in Initial Appointments
